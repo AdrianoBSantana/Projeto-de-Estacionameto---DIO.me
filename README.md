@@ -25,7 +25,7 @@ O objetivo principal foi praticar os conceitos fundamentais da linguagem C# e do
 ## 💻 Tecnologias Utilizadas
 
 - **Linguagem:** C#
-- **Framework:** .NET 9 (ou a versão que você usou, como .NET 6)
+- **Framework:** .NET 9 
 
 ## ▶️ Como Executar
 
