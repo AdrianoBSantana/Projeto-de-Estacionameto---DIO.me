@@ -33,7 +33,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [URL-DO-SEU-REPOSITORIO-AQUI]
+   git clone https://github.com/AdrianoBSantana/Projeto-de-Estacionameto---DIO.me.git
    ```
 
 2. **Navegue até a pasta do projeto:**
